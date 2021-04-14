@@ -656,7 +656,7 @@ h5write(dict, h5_file, "docs")
 print(h5read(h5_file, "docs"))
 ```
 
-### 5.5 Other Approaches
+### 5.4 Other Approaches
 
 The approaches we've covered today work with minimal infrastructure, and can easily work on both personal computers and in cluster environments. There are other techniques out there, all of which merit their own workshops, we'll briefly touch on these just to give people a sense of what's out there.
 
